@@ -1,0 +1,7 @@
+{
+  "projectSettings": {
+    "outputDirectory": ".next",
+    "installCommand": "npm ci",
+    "buildCommand": "npm run build"
+  }
+}
